@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project creates a robust Content Engine that analyzes and compares multiple PDF documents, specifically identifying and highlighting their differences. The system leverages Retrieval Augmented Generation (RAG) techniques to effectively retrieve, assess, and generate insights from the documents. Users interact with the system through a chatbot interface, querying information and comparing data across the documents. 
+This project creates a robust Content Engine that analyzes and compares multiple PDF documents, specifically identifying and highlighting their differences. The system leverages Retrieval Augmented Generation (RAG) techniques to effectively retrieve, assess, and generate insights from the documents. Users interact with the system through a chatbot interface, querying information and comparing data across the documents.   
+
+You can get text of the pdf by asking " show the text ".
 
 **Note:** This chatbot is completely independent of any external APIs and works entirely locally, ensuring data privacy and security. This utilizes Ollama's llama3 model as a Local Language Model. 
 
