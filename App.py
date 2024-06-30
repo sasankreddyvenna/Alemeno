@@ -150,7 +150,7 @@ def main():
                 else:
                     st.warning("Please upload PDF files.")
 
-        st.write("*by Ayon Somaddar*")
+        st.write("*Sasank Reddy*")
 
     if st.session_state['chat_history']:
         st.title("Chat History")
