@@ -4,4 +4,4 @@ langchain
 langchain-community
 datetime
 langchain_huggingface
-faiss
+faiss-cpu
