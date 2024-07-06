@@ -3,3 +3,4 @@ PyPDF2
 langchain
 langchain-community
 datetime
+langchain_huggingface
